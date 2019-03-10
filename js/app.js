@@ -1,6 +1,6 @@
 import { BinaryCalculator } from "./BinaryCalculator";
 import { DecCalculator } from "./DecCalculator";
-import "./style.scss";
+import "../style/style.scss";
 
 
 
